@@ -17,15 +17,15 @@ public class Main {
     
     System.out.println("Bye Bye");
 
-<<<<<<< HEAD
+
     System.out.println("Iam the new boss");
-=======
+
 		    System.out.println("Iam ebuz");
 
 
 		System.out.println("first msg from student central");
 
->>>>>>> b5509623982417ff3d5cb4079550d8664fcdd0e8
+
 	}
 
 }
