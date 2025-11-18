@@ -19,6 +19,9 @@ public class Main {
 
 		    System.out.println("Iam ebuz");
 
+
+		System.out.println("first msg from student central");
+
 	}
 
 }
