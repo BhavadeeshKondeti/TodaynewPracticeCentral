@@ -14,6 +14,8 @@ public class Main {
       //call getBean for Student
     Student  s1=con.getBean("st",Student.class);
     System.out.println(s1);
+    
+    System.out.println("Bye Bye");
 
 	}
 
